@@ -8,5 +8,5 @@ Exploratory Time Series Analysis in Python: [Oman-RTA-EDA-Python.ipynb](Oman-RTA
 
 
 ### Detailed Time Series Analysis and Modeling using ARIMA, SARIMA  
-Time Series, ARIMA, SARIMA Analysis: [Oman-RTA-Time-Series-R.ipynb](Oman-RTA-Time-Series-R.ipynb) [[PDF File](Oman-RTA-Time-Series-R.pdf)]
+Time Series, ARIMA, SARIMA Analysis in R: [Oman-RTA-Time-Series-R.ipynb](Oman-RTA-Time-Series-R.ipynb) [[PDF File](Oman-RTA-Time-Series-R.pdf)]
 
