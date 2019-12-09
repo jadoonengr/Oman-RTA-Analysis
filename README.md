@@ -1,5 +1,5 @@
 # Analysis of Road Traffic Accidents (RTA) in Oman <br/> Using Time Series, ARIMA, SARIMA
-This repository accompanies the ongoing research work on the analysis of various kinds of Road Traffic Accidents (RTA) occurred in Oman using the monthly data from the years 2000 to 2018. The research data consists of record of accidents, injuries and deaths occurred in Oman during the mentioned period. This repository accompanies the research work presented in the [International Conference on Applied Statistics and Econometrics, ICASE 2019](http://epoka.edu.al/mat/icase/Book%20of%20Abstracts%20ICASE19.pdf).
+This repository accompanies the ongoing research work on the analysis of various kinds of Road Traffic Accidents (RTA) occurred in Oman using the monthly data from the years 2000 to 2018. The research data consists of record of accidents, injuries and deaths occurred in Oman during the mentioned period. This repository accompanies the research work presented in the [International Conference on Applied Statistics and Econometrics (ICASE 2019)](http://epoka.edu.al/mat/icase/Book%20of%20Abstracts%20ICASE19.pdf). Presented paper can be [viewed here](https://github.com/jadoonengr/Oman-RTA-Time-Series-Analysis/blob/master/Paper-ICASE-2019.pdf).
 
 
 ### Exploratory Time Series Analysis  
